@@ -1,5 +1,5 @@
 Hi there 👋  
- I am Ashish Bhatt,final year B-Tech undergraduate student.
+ I am Ashish Bhatt, a Software Engineer.
  
 - 👀 I’m interested in developing software and solving problems using Data Structures and Algorithms.
 - 🌱 I’m currently learning web Development and working on my skills of Data structures and Algorithms.
