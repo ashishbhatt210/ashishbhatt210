@@ -4,16 +4,8 @@ Hi there 👋
 - 👀 I’m interested in developing software and solving problems using Data Structures and Algorithms.
 - 🌱 I’m currently learning web Development and working on my skills of Data structures and Algorithms.
 - 💞️ I’m looking to collaborate on some software projects where i can showcase my skills.
-- 📫 How to reach me - Gmail - bhattashish210@gmail.com
-                      LinkedIn - https://www.linkedin.com/in/ashishbhatt210/
 
-<!---
-ashishbhatt210/ashishbhatt210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-* 🌍  I'm based in Ghaziabad, India
-* ✉️  You can contact me at [bhattashish210@gmail.com](mailto:bhattasish210@gmail.com)
 * 🔗  [Resume](https://drive.google.com/file/d/1ZekEEkKQQpar2PNuKI12QaMFBnjf7kfW/view?usp=sharing)
 
 ### Skills
