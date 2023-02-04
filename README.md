@@ -1,5 +1,5 @@
-Hi there 👋  
- I am Ashish Bhatt, a Software Engineer.
+<h1 align="center">Hi 👋, I'm Ashish Bhatt</h1>
+<h3 align="center">Software Engineer</h3>
  
 - 👀 I’m interested in developing software and solving problems using Data Structures and Algorithms.
 - 🌱 I’m currently learning web Development and working on my skills of Data structures and Algorithms.
